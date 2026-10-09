@@ -15,7 +15,7 @@ A Perlin Noise Map is a visual representation of computer-generated, smooth pseu
 
 ## ✨ Features
 
-- **Pre-game Settings Menu:**
+- **Style:**
   - Shows window with a randomly created Perlin Noise Map
   - Colors and pattern are being chosen randomly every time
 
