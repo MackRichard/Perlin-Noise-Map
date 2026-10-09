@@ -9,7 +9,6 @@ A Perlin Noise Map is a visual representation of computer-generated, smooth pseu
 - [Prerequisites](#-prerequisites)
 - [Installation & Setup](#-installation--setup)
 - [Controls](#-controls)
-- [Technologies](#-technologies)
 - [License](#-license)
 
 ---
